@@ -11,7 +11,7 @@
     - Part 1
         Untuk menyelesaikan part ini jumlah elemen yang harus ditampung array harus diubah dari 5 ke 6 karena jumlah elemen pada `myArr[]` adalah 6.
     - Part 2
-        Untuk menyelesaikan part ini kita tambahkan 2 line akses map untuk key `"Imanuel"` dan `"Siska"` unutk mengubah value umur daru 20 ke 21 untuk `"Imanuel"` dan menambah key dan value baru pada map `"stdAge"` dengan `"Siska"` sebagai key dan `19` sebagai valuenya. Sehingga, output yang didapatkan sesuai yang diharapkan.
+        Untuk menyelesaikan part ini kita tambahkan 2 line akses map untuk key `"Imanuel"` dan `"Siska"` unutk mengubah value umur daru 20 ke 21 untuk `"Imanuel"` dan menambah key dan value baru pada map `stdAge` dengan `"Siska"` sebagai key dan `19` sebagai valuenya. Sehingga, output yang didapatkan sesuai yang diharapkan.
     - Part 3
     Untuk menyelasaikan part ini fungsi penambahan elemen slice, yaitu `append()` dipindahkan ke dalam nest if sehingga bilangan prima yang sesuai dengan kondisi if bisa masuk sebagai elemen pada slice `primes`.
 
