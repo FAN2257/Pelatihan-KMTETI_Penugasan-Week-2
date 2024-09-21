@@ -38,20 +38,20 @@ func main() {
 	// Modifikasi pendefinisian variable tx1 sehingga sesuai dengan kasus
 	// yang diceritakan.
 	tx1 := Transaction{
-		2, 
-		"23-01-2021", 
-		[]Books{
+		Total: 2, 
+		Date: "23-01-2021", 
+		Books: []Books{
 			{
-				"Laut Bercerita", 
-				"Leila S. Chudori", 
-				108000, 
-				1,
+				Title: "Laut Bercerita", 
+				Writer: "Leila S. Chudori", 
+				Price: 108000, 
+				Count: 1,
 			},
 			{
-				"Bumi", 
-				"Tere Liye", 
-				97000, 
-				1,
+				Title: "Bumi", 
+				Writer: "Tere Liye", 
+				Price: 97000, 
+				Count: 1,
 			},
 		},
 	}
